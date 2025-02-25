@@ -8,8 +8,8 @@ How might we develop an ML-based model to predict the likelihood of a heart atta
 
 # 4.Dataset Information 
 #Feature Description
-Age -> Age of the patient (in years)
-Sex	-> Gender (0 = Female, 1 = Male)
+'Age -> Age of the patient (in years)
+'Sex	-> Gender (0 = Female, 1 = Male)
 ChestPainType	-> Type of chest pain experienced (Typical Angina, Atypical Angina, Non-Anginal, Asymptomatic)
 RestingBP	-> Resting blood pressure (in mm Hg)
 Cholesterol	-> Serum cholesterol level (in mg/dL)
