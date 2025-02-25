@@ -6,7 +6,7 @@ Cardiovascular diseases, particularly heart attacks, are a leading cause of mort
 # 2.Problem Statement
 How might we develop an ML-based model to predict the likelihood of a heart attack based on patient health parameters, ensuring accurate diagnosis and timely intervention?
 
-#3.Data Collection 
+# 3.Data Collection 
 The dataset used for this study was sourced from Kaggle, a well-known platform for datasets and data science competitions. The dataset contains essential health parameters related to heart disease, such as age, cholesterol levels, and ECG resultsetc..(https://www.kaggle.com/)
 
 # 4.Dataset Information 
