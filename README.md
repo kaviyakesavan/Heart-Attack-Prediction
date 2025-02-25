@@ -1,4 +1,4 @@
-# Heart-Attack-Prediction Using Machine Learning Algorithm
+# Heart-Attack-Prediction Using Machine Learning Algorithms
 
 #  1.Introduction
 Cardiovascular diseases, particularly heart attacks, are a leading cause of mortality worldwide. Predicting heart attacks in advance using machine learning can help in early diagnosis and prevention. This project aims to build a Heart Attack Prediction System using Logistic Regression, SVC, Decision Tree, K-Nearest Neighbors (KNN), and Gradient Boosting.
